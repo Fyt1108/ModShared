@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "dashboard": "仪表盘",
+        "user": "用户管理",
+        "role": "角色管理",
+        "category": "分类管理",
+        "mod": "模组审核",
+        "game": "游戏管理",
+        "report": "举报管理"
+    },
+    "header": {
+        "switchLang": "切换语言",
+        "logout": "退出登录"
+    },
+    "login": {
+        "title": "系统登录",
+        "username": "用户名",
+        "password": "密码",
+        "login": "登录",
+        "remember": "记住密码"
+    }
+}

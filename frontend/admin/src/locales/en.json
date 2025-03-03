@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "dashboard": "Dashboard",
+        "user": "User Management",
+        "role": "Role Management",
+        "category": "Category Management",
+        "mod": "Mod Review",
+        "game": "Game Management",
+        "report": "Report Management"
+    },
+    "header": {
+        "switchLang": "Switch Language",
+        "logout": "Logout"
+    },
+    "login": {
+        "title": "System Login",
+        "username": "Username",
+        "password": "Password",
+        "login": "Login",
+        "remember": "Remember me"
+    }
+}
